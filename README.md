@@ -9,7 +9,7 @@ I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sap
 <a href="https://github.com/engineering87/TechnicalSessions/blob/main/DotNetCode/2020-11-26.md">26/11/2020 - DotNetCode - Introduction to DAPR - Simplifying Microservice Pattern</a>
 </p>
 <p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-04-09.md">09/14/2020 - SharpCoding - .Net e gRPC la fenice dei WCF</a>
+<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-04-09.md">14/09/2020 - SharpCoding - .Net e gRPC la fenice dei WCF</a>
 </p>
 <p>
 <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-01-22.md">22/01/2020 - SharpCoding - DAPR - Simplifying Microservice Pattern</a>
