@@ -1,5 +1,5 @@
 # Hi, I'm Francesco Del Re 👋
-I am a Computer Engineer, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in "Distributed Systems and Computer Architecture". Currently I'm working as Principal Solutions Architect and Project Leader at AlmavivA Spa, I deal with design activities of high level architecture, in particular of microservices and cloud-oriented architectures. I take care of following the technological innovation projects for the public administration, following all the phases from the technical proposal to release. I manage and coordinate different teams of developers and solutions architects within the "Microsoft Digital Service" group.
+I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in **Distributed Systems and Computer Architecture**. Currently I'm working as **Principal Solutions Architect and Project Leader** at AlmavivA Spa, I deal with design activities of high level architecture, in particular of microservices and cloud-oriented architectures. I take care of following the technological innovation projects for the public administration, following all the phases from the technical proposal to release. I manage and coordinate different teams of developers and solutions architects within the **Microsoft Digital Services** group.
 
 ## My Technical Sessions
 
@@ -20,6 +20,10 @@ I am a Computer Engineer, Master's degree in Computer Engineering at "La Sapienz
 <p>
 <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">09/14/2020 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
 </p>
+
+## Member of
+* [.NET Foundation](https://dotnetfoundation.org/)
+* [SharpCoding](http://www.sharpcoding.it/)
 
 ## GitHub Statistics:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87)]
