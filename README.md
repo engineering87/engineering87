@@ -31,7 +31,7 @@ I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sap
 * [SharpCoding](http://www.sharpcoding.it/)
 
 ## GitHub Statistics:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87)
 
 <!--
 **engineering87/engineering87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
