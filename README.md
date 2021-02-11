@@ -3,6 +3,12 @@ I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sap
 
 ## My Technical Sessions
 
+### 2021
+
+<p>
+<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2021-02-25.md">25/02/2021 - SharpCoding - Microservices by Domain-Driven Design</a>
+</p>
+
 ### 2020
 
 <p>
