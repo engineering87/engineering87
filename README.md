@@ -38,7 +38,7 @@ I manage and coordinate different teams of developers and solutions architects w
 * [SharpCoding](http://www.sharpcoding.it/)
 
 ## GitHub Statistics:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87&theme=dark&show_icons=true)
 
 <!--
 **engineering87/engineering87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
