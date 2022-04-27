@@ -2,6 +2,8 @@
 I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in **Distributed Systems and Computer Architecture**. Currently I'm working as **Head of Software Technology Modernization** at AlmavivA Spa, I deal with the process of updating legacy applications using modern technology stacks, in particular microservices and cloud-oriented architectures.
 I manage and coordinate different teams of developers and solutions architects within the **Microsoft Digital Services** group.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/engineering87)
+
 ## My Technical Sessions
 
 ### 2021
