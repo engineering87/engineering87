@@ -2,9 +2,12 @@
 I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in **Distributed Systems and Computer Architecture**. Currently I'm working as **Head of Software Technology Modernization** at AlmavivA Spa, I deal with the process of updating legacy applications using modern technology stacks, in particular microservices and cloud-oriented architectures.
 I manage and coordinate different teams of developers and solutions architects within the **Microsoft Digital Services** group.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/engineering87)
+## 🌎 Find me around the web
 
-## My Technical Sessions
+- Learning in public on <a href="https://www.sharpcoding.it/" target="_blank">Sharpcoding</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/francesco-delre/">LinkedIn</a>
+
+## ⚡ My Technical Sessions
 
 ### 2021
 
@@ -30,31 +33,25 @@ I manage and coordinate different teams of developers and solutions architects w
 <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">09/14/2020 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
 </p>
 
-## My Technical Articles
+## 📝 My Technical Articles
 * [Communication in Microservices Architectures](https://sharpcoding.medium.com/communication-in-microservices-architectures-3eb2e00b556f)
 * [Some best practices pills for Microservice Architectures](https://sharpcoding.medium.com/some-best-practices-pills-for-microservice-architectures-51b35eead7ce)
 * [Retry Pattern e servizi REST](https://sharpcoding.medium.com/retry-pattern-e-servizi-rest-10e590f9369e)
 
-## Member of
+## ✨ Member of
 * [.NET Foundation](https://dotnetfoundation.org/)
 * [SharpCoding](http://www.sharpcoding.it/)
 
-## GitHub Statistics:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineering87&theme=dark&show_icons=true)
+## 📈 GitHub Statistics:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=engineering87&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=engineering87&theme=dracula&hide_border=false" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineering87&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 💰 You can help me by Donating
 
-<!--
-**engineering87/engineering87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/engineering87)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💌 Contact Me
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/engineering87)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/francesco-delre)
