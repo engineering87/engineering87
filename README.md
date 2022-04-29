@@ -11,27 +11,19 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ### 2021
 
-<p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2021-02-25.md">25/02/2021 - SharpCoding - Microservices by Domain-Driven Design</a>
-</p>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2021-02-25.md">25/02/2021 - SharpCoding - Microservices by Domain-Driven Design</a>
 
 ### 2020
 
-<p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/DotNetCode/2020-11-26.md">26/11/2020 - DotNetCode - Introduction to DAPR - Simplifying Microservice Pattern</a>
-</p>
-<p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-04-09.md">14/09/2020 - SharpCoding - .Net e gRPC la fenice dei WCF</a>
-</p>
-<p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-01-22.md">22/01/2020 - SharpCoding - DAPR - Simplifying Microservice Pattern</a>
-</p>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/DotNetCode/2020-11-26.md">26/11/2020 - DotNetCode - Introduction to DAPR - Simplifying Microservice Pattern</a>
+
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-04-09.md">14/09/2020 - SharpCoding - .Net e gRPC la fenice dei WCF</a>
+
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2020-01-22.md">22/01/2020 - SharpCoding - DAPR - Simplifying Microservice Pattern</a>
 
 ### 2019
 
-<p>
-<a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">09/14/2020 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
-</p>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">09/14/2020 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
 
 ## 📝 My Technical Articles
 * [Communication in Microservices Architectures](https://sharpcoding.medium.com/communication-in-microservices-architectures-3eb2e00b556f)
