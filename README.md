@@ -11,7 +11,7 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ### 2022
 
-- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2022-11-22.md">2022-11-22 - SharpCoding - Azure Arc, Hybrid and Multi-Cloud solutions</a>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2022-11-22.md">2022/11/22 - SharpCoding - Azure Arc, Hybrid and Multi-Cloud solutions</a>
 
 ### 2021
 
