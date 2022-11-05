@@ -9,6 +9,10 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ## ⚡ My Technical Sessions
 
+### 2022
+
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2022-11-22.md">2022-11-22 - SharpCoding - Azure Arc, Hybrid and Multi-Cloud solutions</a>
+
 ### 2021
 
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2021-02-25.md">25/02/2021 - SharpCoding - Microservices by Domain-Driven Design</a>
