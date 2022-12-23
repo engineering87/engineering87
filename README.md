@@ -9,6 +9,10 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ## ⚡ My Technical Sessions
 
+### 2023
+
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/WeBuild2023.md">03/12/2023 - Microsoft - WeBuild 2023</a>
+
 ### 2022
 
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2022-11-22.md">22/11/2022 - SharpCoding - Azure Arc, Hybrid and Multi-Cloud solutions</a>
