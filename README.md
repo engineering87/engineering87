@@ -11,7 +11,7 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ### 2023
 
-- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/WeBuild2023.md">03/12/2023 - Microsoft - SharpBuild 2023</a>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpBuild2023.md">03/12/2023 - Microsoft - SharpBuild 2023</a>
 
 ### 2022
 
