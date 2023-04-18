@@ -1,5 +1,5 @@
 # Hi, I'm Francesco Del Re 👋
-I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in **Distributed Systems and Computer Architecture**. Currently I'm working as **Head of Software Technology Modernization** at AlmavivA Spa, I deal with the process of updating legacy applications using modern technology stacks, in particular microservices and cloud-oriented architectures.
+I am a **Computer Engineer**, Master's degree in Computer Engineering at "La Sapienza, University of Rome", specialization in **Distributed Systems and Computer Architecture**. Currently I'm working as **Delivery Executive** at AlmavivA Spa, I deal with the process of updating legacy applications using modern technology stacks, in particular microservices and cloud-oriented architectures.
 I manage and coordinate different teams of developers and solutions architects within the **Microsoft Digital Services** group.
 
 ## 🌎 Find me around the web
