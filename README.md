@@ -9,10 +9,13 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ## ⚡ My Technical Sessions
 
+### 2024
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2024.md">01/03/2023 - Microsoft - SharpCoding 2024</a>
+
 ### 2023
 
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2023-04-27.md">27/04/2023 - SharpCoding - Machine Learning with ML.NET</a>
-- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2023.md">03/12/2023 - Microsoft - SharpCoding 2023</a>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2023.md">03/03/2023 - Microsoft - SharpCoding 2023</a>
 
 ### 2022
 
