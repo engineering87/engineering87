@@ -10,6 +10,7 @@ I manage and coordinate different teams of developers and solutions architects w
 ## ⚡ My Technical Sessions
 
 ### 2024
+- <a href="https://github.com/engineering87/CodemotionWorkshopFest-2024/blob/main/README.md">19/03/2024 - Codemotion - Workshop Fest 2024</a>
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2024.md">01/03/2024 - Microsoft - SharpCoding Conf 2024</a>
 
 ### 2023
