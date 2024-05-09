@@ -36,7 +36,7 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ### 2019
 
-- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">09/14/2020 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
+- <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">11/10/2019 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
 
 ## 📝 My Technical Articles
 * [Microservices: Unlocking Efficiency and Resilience in Legacy Application Modernization](https://www.codemotion.com/magazine/microservices/microservices-unlocking-efficiency-and-resilience-in-legacy-application-modernization/)
