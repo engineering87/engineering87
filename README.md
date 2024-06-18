@@ -7,6 +7,10 @@ I manage and coordinate different teams of developers and solutions architects w
 - Learning in public on <a href="https://www.sharpcoding.it/" target="_blank">Sharpcoding</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-delre/">LinkedIn</a>
 
+## 📝 Publications
+- <a href="https://users.diag.uniroma1.it/~biblioteca/en/node/5952" target="_blank">2013 - Self-optimizing Concurrency in Software Transactional Memory via Model-based Approach</a>
+- <a href="https://ieeexplore.ieee.org/document/6676490" target="_blank">2013 - Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach</a>
+
 ## ⚡ My Technical Sessions
 
 ### 2024
