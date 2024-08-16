@@ -59,7 +59,6 @@ I manage and coordinate different teams of developers and solutions architects w
 </p>
 
 ## 📈 GitHub Statistics:
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=engineering87&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineering87&theme=onedark&hide_border=false" />
@@ -72,3 +71,5 @@ I manage and coordinate different teams of developers and solutions architects w
 ## 💌 Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/engineering87)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/francesco-delre)
+
+![](https://komarev.com/ghpvc/?username=engineering87)
