@@ -50,8 +50,9 @@ I manage and coordinate different teams of developers and solutions architects w
 
 ## ✨ Member of
 * [.NET Foundation](https://dotnetfoundation.org/)
-* [SharpCoding](http://www.sharpcoding.it/)
+* [SharpCoding Community](http://www.sharpcoding.it/)
 * [Associazione Nazionale di Crittografia De Componendis Cifris](https://www.decifris.it/)
+* [The Sharp Ninjas](https://github.com/thesharpninjas)
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
