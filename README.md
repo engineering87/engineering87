@@ -37,6 +37,7 @@ I manage and coordinate different teams of developers and solutions architects w
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/SharpCoding/2019-10-11.md">11/10/2019 - SharpCoding - DE-MONOLITHIC APPROACH, Cloud & Microservices</a>
 
 ## 📝 My Technical Articles
+* [Bridging Systems: Tackling the Complexity of Cross-Domain Interoperability](https://www.codemotion.com/magazine/backend/software-architecture/cross-domain-interoperability/)
 * [Microservices: Unlocking Efficiency and Resilience in Legacy Application Modernization](https://www.codemotion.com/magazine/microservices/microservices-unlocking-efficiency-and-resilience-in-legacy-application-modernization/)
 * [Communication in Microservices Architectures](https://sharpcoding.medium.com/communication-in-microservices-architectures-3eb2e00b556f)
 * [Some best practices pills for Microservice Architectures](https://sharpcoding.medium.com/some-best-practices-pills-for-microservice-architectures-51b35eead7ce)
