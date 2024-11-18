@@ -8,7 +8,7 @@ As a passionate Solutions Architect and pragmatic Software Engineer, I currently
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-delre/">LinkedIn</a>
 - Sharing articles on <a href="https://engineering87.github.io/">Blog</a>
 
-## 📝 Publications
+## 📝 Research Publications
 - <a href="https://users.diag.uniroma1.it/~biblioteca/en/node/5952" target="_blank">2013 - Self-optimizing Concurrency in Software Transactional Memory via Model-based Approach</a>
 - <a href="https://ieeexplore.ieee.org/document/6676490" target="_blank">2013 - Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach</a>
 
