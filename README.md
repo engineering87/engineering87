@@ -45,6 +45,7 @@ As a passionate Solutions Architect and pragmatic Software Engineer, I currently
 
 ## ✨ Member of
 * [.NET Foundation](https://dotnetfoundation.org/)
+* [Developers Italia](https://github.com/italia)
 * [SharpCoding Community](http://www.sharpcoding.it/)
 * [Associazione Nazionale di Crittografia De Componendis Cifris](https://www.decifris.it/)
 * [The Sharp Ninjas](https://github.com/thesharpninjas)
