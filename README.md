@@ -14,6 +14,9 @@ As a passionate Solutions Architect and pragmatic Software Engineer, I currently
 
 ## ⚡ My Technical Sessions
 
+### 2025
+- <a href="https://github.com/sharpcoding-conference/SharpCodingWorkshop-2025/blob/main/Francesco%20Del%20Re/README.md">27/02/2025 - Microsoft - SharpCoding Conf 2025</a>
+
 ### 2024
 - <a href="https://github.com/engineering87/CodemotionWorkshopFest-2024/blob/main/README.md">19/03/2024 - Codemotion - Workshop Fest 2024</a>
 - <a href="https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2024.md">01/03/2024 - Microsoft - SharpCoding Conf 2024</a>
