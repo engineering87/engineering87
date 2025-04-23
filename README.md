@@ -56,13 +56,14 @@ As a passionate Solutions Architect and pragmatic Software Engineer, I currently
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=engineering87&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=engineering87&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ## 📈 GitHub Statistics:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=engineering87&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineering87&theme=onedark&hide_border=false" />
+ <img src="https://github-readme-stats.vercel.app/api?username=engineering87&show_icons=true&theme=transparent" />
+
 </p>
 
 ## 💰 Support me
