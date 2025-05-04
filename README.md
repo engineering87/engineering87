@@ -1,4 +1,7 @@
 # Hello there, I'm Francesco Del Re ![](https://komarev.com/ghpvc/?username=engineering87)
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQF5oqZpmiFN0Q/profile-displaybackgroundimage-shrink_350_1400/B4DZadKe3FHEAc-/0/1746393494691?e=1752105600&v=beta&t=QJKzwLmeRoa1_u50N7odjVI6WtAh2YTviZ9iyYxZdZ4" alt="profile" />
+
 I am a **Computer Engineer** with a Master's degree in **Computer Engineering** from "La Sapienza, University of Rome," specializing in **Distributed Systems and Computer Architecture**. 
 As a passionate Solutions Architect and pragmatic Software Engineer, I currently serve as **Lead Execution Manager** at AlmavivA Spa, where I am responsible for all technological modernization and digital transformation efforts within the Public Administration sector of the Welfare market. My work focuses on driving innovation, modernizing legacy systems with cutting-edge tech stacks, and enhancing operational efficiency and service delivery. I lead teams, manage complex projects as part of the **Integrated Systems, Platform & Software Delivery** group, and ensure that our technology strategies are fully aligned with the sector's evolving demands, playing a crucial role in shaping the future of public services.
 
