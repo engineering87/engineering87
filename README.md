@@ -66,8 +66,11 @@ As a passionate Solutions Architect and pragmatic Software Engineer, I currently
 ## 📈 GitHub Statistics:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=engineering87&show_icons=true&theme=transparent" />
-
 </p>
+
+## 🌟 Microsoft MVP Candidacy – Support Welcome!
+I'm currently working toward a nomination to the Microsoft MVP program, which recognizes developers who actively contribute to the tech community.
+If you're a current Microsoft MVP, a Microsoft employee, or someone familiar with my work in the community (GitHub, blog posts, speaking engagements, OSS), your support, feedback, or sponsorship would be immensely appreciated.
 
 ## 💰 Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/engineering87)
