@@ -2,8 +2,18 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQF5oqZpmiFN0Q/profile-displaybackgroundimage-shrink_350_1400/B4DZadKe3FHEAc-/0/1746393494691?e=1757548800&v=beta&t=2nvh9cDwcRAggDVYSNQBvoW7S1ZEHvC5TJpAKMxE1ro" alt="profile" />
 
-I am a **Computer Engineer** with a Master's degree in **Computer Engineering** from "La Sapienza, University of Rome," specializing in **Distributed Systems and Computer Architecture**. 
-As a passionate Solutions Architect and pragmatic Software Engineer, I currently serve as **Lead Execution Manager** at AlmavivA Spa, where I am responsible for all technological modernization and digital transformation efforts within the Public Administration sector of the Welfare market. My work focuses on driving innovation, modernizing legacy systems with cutting-edge tech stacks, and enhancing operational efficiency and service delivery. I lead teams, manage complex projects as part of the **Integrated Systems, Platform & Software Delivery** group, and ensure that our technology strategies are fully aligned with the sector's evolving demands, playing a crucial role in shaping the future of public services.
+## 👔 Executive | 🚀 Technology Leader | 🏛️ Public Sector Innovator
+
+## 👤 About Me
+
+I am an **Executive and Technology Leader** with a strong engineering foundation and a forward-looking vision for digital transformation. Holding a Master's degree in Computer Engineering from *La Sapienza, University of Rome*, with a specialization in **Distributed Systems** and **Computer Architecture**, I bring deep technical expertise to strategic leadership.
+Currently, I serve as **Lead Execution Manager** at **AlmavivA S.p.A.**, where I head all **technological modernization and digital transformation initiatives** within the **Public Administration Welfare sector**. In this executive role, I:
+
+- Drive **innovation and service excellence** through modernization of legacy systems using modern, scalable technology stacks.
+- Lead **cross-functional engineering teams** and manage complex, mission-critical projects within the **Integrated Systems, Platform & Software Delivery** group.
+- Align technology strategy with institutional priorities to improve **operational efficiency**, **resilience**, and **citizen services**.
+
+With a pragmatic approach to software engineering and a passion for impactful architecture, I work at the intersection of **technology, governance, and societal value**, shaping the digital future of public services.
 
 ## 🌎 Find me around the web
 
