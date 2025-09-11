@@ -1,6 +1,6 @@
 # Hello there, I'm Francesco Del Re ![](https://komarev.com/ghpvc/?username=engineering87)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQF5oqZpmiFN0Q/profile-displaybackgroundimage-shrink_350_1400/B4DZadKe3FHEAc-/0/1746393494691?e=1757548800&v=beta&t=2nvh9cDwcRAggDVYSNQBvoW7S1ZEHvC5TJpAKMxE1ro" alt="profile" />
+<img src="/assets/background.jpg" alt="profile" />
 
 ## 👔 Executive | 🚀 Technology Leader | 🏛️ Public Sector Innovator
 
