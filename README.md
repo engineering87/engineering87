@@ -69,13 +69,18 @@ With a pragmatic approach to software engineering and a passion for impactful ar
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=engineering87&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
+<img
+  src="https://github-profile-trophy.screw-hand.vercel.app/?username=engineering87&theme=darkhub&no-frame=true&margin-w=10&margin-h=10"
+  width="900"
+/>
 </p>
 
 ## 📈 GitHub Statistics:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=engineering87&show_icons=true&theme=transparent" />
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=engineering87&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=1800&v=1"
+  height="165"
+/>
 </p>
 
 ## 🌟 Microsoft MVP Candidacy – Support Welcome!
