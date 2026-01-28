@@ -7,7 +7,7 @@
 ## 👤 About Me
 
 I am an **Executive and Technology Leader** with a strong engineering foundation and a forward-looking vision for digital transformation. Holding a Master's degree in Computer Engineering from *La Sapienza, University of Rome*, with a specialization in **Distributed Systems** and **Computer Architecture**, I bring deep technical expertise to strategic leadership.
-Currently, I serve as **Lead Execution Manager** at **AlmavivA S.p.A.**, where I head all **technological modernization and digital transformation initiatives** within the **Public Administration Welfare sector**. In this executive role, I:
+Currently, I serve as **Executive Program Manager** at **AlmavivA S.p.A.**, where I head all **technological modernization and digital transformation initiatives** within the **Public Administration Welfare sector**. In this executive role, I:
 
 - Drive **innovation and service excellence** through modernization of legacy systems using modern, scalable technology stacks.
 - Lead **cross-functional engineering teams** and manage complex, mission-critical projects within the **Integrated Systems, Platform & Software Delivery** group.
