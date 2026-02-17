@@ -25,6 +25,9 @@ With a pragmatic approach to software engineering and a passion for impactful ar
 - <a href="https://users.diag.uniroma1.it/~biblioteca/en/node/5952" target="_blank">2013 - Self-optimizing Concurrency in Software Transactional Memory via Model-based Approach</a>
 - <a href="https://ieeexplore.ieee.org/document/6676490" target="_blank">2013 - Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach</a>
 
+## 📝 Zenodo Publications
+- <a href="https://zenodo.org/records/18442375" target="_blank">2026 - Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment</a>
+
 ## ⚡ My Technical Sessions
 
 ### 2025
