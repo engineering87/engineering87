@@ -7,7 +7,7 @@
 ## 👤 About Me
 
 I am an **Executive and Technology Leader** with a strong engineering foundation and a forward-looking vision for digital transformation. Holding a Master's degree in Computer Engineering from *La Sapienza, University of Rome*, with a specialization in **Distributed Systems** and **Computer Architecture**, I bring deep technical expertise to strategic leadership.
-Currently, I serve as **Executive Program Manager** at **AlmavivA S.p.A.**, where I head all **technological modernization and digital transformation initiatives** within the **Public Administration Welfare sector**. In this executive role, I:
+Currently, I serve as **Executive Program Manager** at **AlmavivA S.p.A.**, where I lead **technological modernization and digital transformation initiatives** within the **Public Administration Welfare sector**. In this executive role, I:
 
 - Drive **innovation and service excellence** through modernization of legacy systems using modern, scalable technology stacks.
 - Lead **cross-functional engineering teams** and manage complex, mission-critical projects within the **Integrated Systems, Platform & Software Delivery** group.
@@ -15,11 +15,13 @@ Currently, I serve as **Executive Program Manager** at **AlmavivA S.p.A.**, wher
 
 With a pragmatic approach to software engineering and a passion for impactful architecture, I work at the intersection of **technology, governance, and societal value**, shaping the digital future of public services.
 
+I am also registered in the **European Commission expert database** for potential evaluation and advisory activities in areas related to digital transformation, interoperability, innovation, and public sector modernization.
+
 ## 🌎 Find me around the web
 
 - Learning in public on <a href="https://www.sharpcoding.it/" target="_blank">Sharpcoding</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/francesco-delre/">LinkedIn</a>
-- Sharing articles on <a href="https://engineering87.github.io/">Blog</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/francesco-delre/" target="_blank">LinkedIn</a>
+- Sharing articles on <a href="https://engineering87.github.io/" target="_blank">Blog</a>
 
 ## 📝 Research Publications
 - <a href="https://users.diag.uniroma1.it/~biblioteca/en/node/5952" target="_blank">2013 - Self-optimizing Concurrency in Software Transactional Memory via Model-based Approach</a>
@@ -70,15 +72,15 @@ With a pragmatic approach to software engineering and a passion for impactful ar
 * [Associazione Nazionale di Crittografia De Componendis Cifris](https://www.decifris.it/)
 * [The Sharp Ninjas](https://github.com/thesharpninjas)
 
-## 🏆GitHub Trophies
-<p align="center" style="witdh:100%">
+## 🏆 GitHub Trophies
+<p align="center" style="width:100%">
 <img
   src="https://github-profile-trophy.screw-hand.vercel.app/?username=engineering87&theme=darkhub&no-frame=true&margin-w=10&margin-h=10"
   width="900"
 />
 </p>
 
-## 📈 GitHub Statistics:
+## 📈 GitHub Statistics
 <p align="center">
 <img
   src="https://github-readme-stats-fast.vercel.app/api?username=engineering87&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=1800&v=1"
