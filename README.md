@@ -28,6 +28,7 @@ I am also registered in the **European Commission expert database** for potentia
 - <a href="https://ieeexplore.ieee.org/document/6676490" target="_blank">2013 - Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach</a>
 
 ## 📝 Zenodo Publications
+- <a href="https://zenodo.org/records/19989954" target="_blank">2026 - The PDND E-Service Network: A Graph-Based Model from Italian Open Government Data</a>
 - <a href="https://zenodo.org/records/18442375" target="_blank">2026 - Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment</a>
 
 ## ⚡ My Technical Sessions
