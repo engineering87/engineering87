@@ -2,8 +2,6 @@
 
 <img src="/assets/background.jpg" alt="profile" />
 
-## 👔 Executive | 🚀 Technology Leader | 🏛️ Public Sector Innovator
-
 ## 👤 About Me
 
 I am an **Executive and Technology Leader** with a strong engineering foundation and a forward-looking vision for digital transformation. Holding a Master's degree in Computer Engineering from *La Sapienza, University of Rome*, with a specialization in **Distributed Systems** and **Computer Architecture**, I bring deep technical expertise to strategic leadership.
