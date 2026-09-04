@@ -8,8 +8,9 @@
 Distributed systems · .NET · Architecture · AI
 
 <a href="https://www.linkedin.com/in/francesco-delre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://engineering87.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+<a href="https://engineering87.github.io/"><img src="https://img.shields.io/badge/Blog-4A5568?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 <a href="https://sessionize.com/engineering87/"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white" alt="Sessionize" /></a>
+<a href="https://www.credly.com/users/francesco-del-re"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications" /></a>
 <img src="https://komarev.com/ghpvc/?username=engineering87&style=for-the-badge&color=24292E&label=PROFILE+VIEWS" alt="Profile views" />
 
 <a href="https://dotnetfoundation.org/"><img src="https://img.shields.io/badge/.NET%20Foundation-member-512BD4?style=flat-square" alt=".NET Foundation member" /></a>
