@@ -5,6 +5,8 @@
 # Francesco Del Re
 **Executive Program Manager** · Modernization of Italian Public Administration Systems
 <br />
+**Internationally published author** · Apress (Springer Nature)
+<br />
 Distributed systems · .NET · Architecture · AI
 
 <a href="https://www.linkedin.com/in/francesco-delre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,6 +15,7 @@ Distributed systems · .NET · Architecture · AI
 <a href="https://www.credly.com/users/francesco-del-re"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications" /></a>
 <img src="https://komarev.com/ghpvc/?username=engineering87&style=for-the-badge&color=24292E&label=PROFILE+VIEWS" alt="Profile views" />
 
+<a href="#-book"><img src="https://img.shields.io/badge/Apress-author-D71920?style=flat-square" alt="Apress author" /></a>
 <a href="https://dotnetfoundation.org/"><img src="https://img.shields.io/badge/.NET%20Foundation-member-512BD4?style=flat-square" alt=".NET Foundation member" /></a>
 <a href="https://github.com/italia"><img src="https://img.shields.io/badge/Developers%20Italia-contributor-0066CC?style=flat-square" alt="Developers Italia contributor" /></a>
 <a href="https://github.com/engineering87/CodemotionWorkshopFest-2024/blob/main/README.md"><img src="https://img.shields.io/badge/Codemotion-speaker-F5B700?style=flat-square" alt="Codemotion speaker" /></a>
@@ -39,8 +42,13 @@ still write code, publish libraries, and review architectures. My work sits at
 the demanding end of the discipline: high-complexity distributed architectures,
 concurrency, and the resilience of systems that cannot afford to fail. It is
 the kind of engineering where correctness has to be reasoned about rather than
-assumed, and that is what my open source work and my writing keep coming back
-to.
+assumed, and that is what my open source work, my writing, and my
+[book](#-book) keep coming back to.
+
+I am an internationally published author: my book on resilience and
+self-healing in .NET is published by Apress, the technology imprint of
+Springer Nature, and written in English for a global audience of developers
+and architects.
 
 I hold an MSc in Computer Engineering from La Sapienza, University of Rome, with
 a specialization in distributed systems and computer architecture, and my
@@ -52,8 +60,41 @@ modernization.
 
 ---
 
+## 📘 Book
+
+<table>
+<tr>
+<td width="180" valign="top">
+<!-- TODO: add the cover image, e.g. assets/book-cover.jpg -->
+<img src="https://github.com/engineering87/engineering87/raw/main/assets/book-cover.jpg" alt="Book cover" width="160" />
+</td>
+<td valign="top">
+
+### [BOOK TITLE]
+**Apress (Springer Nature), 2026** · ISBN 979-8-8688-3176-8
+
+A hands-on guide to building .NET systems that detect their own failures,
+including the subtle gray failures that health checks miss, recover from
+them automatically, and verify that the recovery actually worked. It distils
+more than a decade of work on distributed systems that cannot afford to fail
+into patterns, reference implementations, and production-ready code on .NET.
+
+<a href="https://www.amazon.it/dp/B0H86GB16H"><img src="https://img.shields.io/badge/Pre--order-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Pre-order on Amazon" /></a>
+<!-- TODO: add the Springer Nature Link page once live -->
+<!-- <a href="SPRINGER_URL"><img src="https://img.shields.io/badge/Springer%20Nature-Apress-D71920?style=for-the-badge" alt="Apress / Springer Nature" /></a> -->
+
+<!-- TODO: uncomment when the companion repository is public -->
+<!-- Companion code: [self-healing-dotnet](https://github.com/engineering87/self-healing-dotnet) -->
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📄 Publications
 
+- ![Apress](https://img.shields.io/badge/Apress-D71920?style=flat-square) 2026 - **[BOOK TITLE]** (book, Apress / Springer Nature, ISBN 979-8-8688-3176-8)
 - ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white) 2026 - [The PDND E-Service Network: A Graph-Based Model from Italian Open Government Data](https://zenodo.org/records/19989954)
 - ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white) 2026 - [Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment](https://zenodo.org/records/18442375)
 - ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) 2013 - [Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach](https://ieeexplore.ieee.org/document/6676490)
@@ -96,9 +137,9 @@ extracts and normalizes request metadata.
 
 ## ✍️ Writing and Speaking
 
-I write on [my blog](https://engineering87.github.io/), and my articles have
-appeared on Codemotion and on the [Sharpcoding](https://www.sharpcoding.it/)
-publication:
+Besides the [book](#-book), I write on [my blog](https://engineering87.github.io/),
+and my articles have appeared on Codemotion and on the
+[Sharpcoding](https://www.sharpcoding.it/) publication:
 
 - ![Codemotion](https://img.shields.io/badge/Codemotion-F5B700?style=flat-square) [Bridging Systems: Tackling the Complexity of Cross-Domain Interoperability](https://www.codemotion.com/magazine/backend/software-architecture/cross-domain-interoperability/)
 - ![Codemotion](https://img.shields.io/badge/Codemotion-F5B700?style=flat-square) [Microservices: Unlocking Efficiency and Resilience in Legacy Application Modernization](https://www.codemotion.com/magazine/microservices/microservices-unlocking-efficiency-and-resilience-in-legacy-application-modernization/)
