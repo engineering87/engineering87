@@ -65,12 +65,11 @@ modernization.
 <table>
 <tr>
 <td width="180" valign="top">
-<!-- TODO: add the cover image, e.g. assets/book-cover.jpg -->
 <img src="https://github.com/engineering87/engineering87/raw/main/assets/book-cover.jpg" alt="Book cover" width="160" />
 </td>
 <td valign="top">
 
-### [BOOK TITLE]
+### Designing Self-Healing Systems with .NET: From Resilience to Autonomous Recovery in Modern Software Systems
 **Apress (Springer Nature), 2026** · ISBN 979-8-8688-3176-8
 
 A hands-on guide to building .NET systems that detect their own failures,
@@ -94,7 +93,7 @@ into patterns, reference implementations, and production-ready code on .NET.
 
 ## 📄 Publications
 
-- ![Apress](https://img.shields.io/badge/Apress-D71920?style=flat-square) 2026 - **[BOOK TITLE]** (book, Apress / Springer Nature, ISBN 979-8-8688-3176-8)
+- ![Apress](https://img.shields.io/badge/Apress-D71920?style=flat-square) 2026 - **Designing Self-Healing Systems with .NET: From Resilience to Autonomous Recovery in Modern Software Systems** (book, Apress / Springer Nature, ISBN 979-8-8688-3176-8)
 - ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white) 2026 - [The PDND E-Service Network: A Graph-Based Model from Italian Open Government Data](https://zenodo.org/records/19989954)
 - ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white) 2026 - [Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment](https://zenodo.org/records/18442375)
 - ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) 2013 - [Regulating Concurrency in Software Transactional Memory: An Effective Model-based Approach](https://ieeexplore.ieee.org/document/6676490)
