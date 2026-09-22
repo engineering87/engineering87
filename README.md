@@ -132,6 +132,31 @@ which handles OAuth 2.0 client assertion and voucher retrieval, and
 [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet), which
 extracts and normalizes request metadata.
 
+## 🐧 SibillaOS
+
+<table>
+<tr>
+<td width="140" valign="top">
+<a href="https://github.com/engineering87/sibillaos"><img src="https://github.com/engineering87/sibillaos/raw/main/branding/logo.svg" alt="SibillaOS logo" width="120" /></a>
+</td>
+<td valign="top">
+
+**Install Linux, get a working LLM API. Nothing else to set up.**
+
+An Ubuntu 24.04 LTS derivative, released under Apache-2.0, that turns a
+machine into a local LLM appliance. The installer detects the hardware,
+chooses between vLLM and Ollama, picks a model and quantization that fit
+from a curated, signed catalog, and from first boot serves an
+OpenAI-compatible API protected by a bearer token. A working proof of
+concept, tested end to end in CI on every push.
+
+<a href="https://github.com/engineering87/sibillaos"><img src="https://img.shields.io/badge/GitHub-sibillaos-24292E?style=for-the-badge&logo=github&logoColor=white" alt="SibillaOS repository" /></a>
+<a href="https://github.com/engineering87/sibillaos/releases"><img src="https://img.shields.io/github/v/release/engineering87/sibillaos?style=for-the-badge&logo=ubuntu&logoColor=white&label=release&color=E95420" alt="Latest release" /></a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## ✍️ Writing and Speaking
