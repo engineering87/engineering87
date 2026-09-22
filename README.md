@@ -78,7 +78,8 @@ them automatically, and verify that the recovery actually worked. It distils
 more than a decade of work on distributed systems that cannot afford to fail
 into patterns, reference implementations, and production-ready code on .NET.
 
-<a href="https://www.amazon.it/dp/B0H86GB16H"><img src="https://img.shields.io/badge/Pre--order-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Pre-order on Amazon" /></a>
+<a href="https://link.springer.com/book/9798868831768"><img src="https://img.shields.io/badge/Read%20on-Springer%20Nature%20Link-D71920?style=for-the-badge&logo=springer&logoColor=white" alt="Book on Springer Nature Link" /></a>
+<a href="https://www.amazon.it/dp/B0H86GB16H"><img src="https://img.shields.io/badge/Buy%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon" /></a>
 <!-- TODO: add the Springer Nature Link page once live -->
 <!-- <a href="SPRINGER_URL"><img src="https://img.shields.io/badge/Springer%20Nature-Apress-D71920?style=for-the-badge" alt="Apress / Springer Nature" /></a> -->
 
