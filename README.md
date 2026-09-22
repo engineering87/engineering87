@@ -28,11 +28,11 @@ Distributed systems · .NET · Architecture · AI
 
 ## 👤 About
 
-I am an Executive Program Manager in the Welfare Public Administration domain,
+I am an Executive Program Manager in public sector digital transformation,
 accountable for outcomes, budget, and delivery across a modernization portfolio.
 I coordinate multiple streams and cross-functional teams, guiding Program
 Managers, Solution Architects, and engineering teams, and I own the technical
-strategy for the domain: standards, solution directions, and reference
+strategy for my area: standards, solution directions, and reference
 architectures for the replacement of large-scale legacy systems. That remit
 includes the strategy for AI adoption in software development, from the
 practices engineering teams follow to the governance around them.
