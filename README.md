@@ -175,6 +175,7 @@ and my articles have appeared on Codemotion and on the
 I speak at SharpCoding, Codemotion, and DotNetCode. Next up:
 
 - ![Sharp4Dev](https://img.shields.io/badge/Sharp4Dev-upcoming-E8590C?style=flat-square) 16 October 2026 - [Sharp4Dev 2026, Seraphicum, Rome](https://sharp4dev.sharpcoding.it/)
+- ![KEY2](https://img.shields.io/badge/KEY2%20Meetup-upcoming-E8590C?style=flat-square) 29 October 2026 - [La resilienza non basta: architetture self-healing in .NET, KEY2, Rome](https://www.linkedin.com/company/key-2/)
 
 Recent sessions, with the full history on
 [Sessionize](https://sessionize.com/engineering87/):
