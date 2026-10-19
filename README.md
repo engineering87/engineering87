@@ -102,6 +102,17 @@ into patterns, reference implementations, and production-ready code on .NET.
 
 ---
 
+## 🧮 Experimental Mathematics
+ 
+I am applying AI and experimenting with it in several scientific contexts.
+In mathematics, AI-assisted verification tools I built helped correct Henri
+Cohen's dictionary of continued fractions, and the October 2026 version
+acknowledges the contribution.
+ 
+- ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white) 2026 - H. Cohen, [Continued Fractions of Polynomial Type: Theory and Encyclopedic Dictionary](https://arxiv.org/abs/2607.06581)
+
+---
+
 ## 📦 Open Source
 
 I maintain 19 packages on [NuGet](https://www.nuget.org/profiles/engineering87),
