@@ -183,14 +183,11 @@ and my articles have appeared on Codemotion and on the
 - ![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white) [Some best practices pills for Microservice Architectures](https://sharpcoding.medium.com/some-best-practices-pills-for-microservice-architectures-51b35eead7ce)
 - ![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white) [Retry Pattern e servizi REST](https://sharpcoding.medium.com/retry-pattern-e-servizi-rest-10e590f9369e)
 
-I speak at SharpCoding, Codemotion, and DotNetCode. Next up:
+I speak at SharpCoding, Codemotion, and DotNetCode. Recent sessions, with the
+full history on [Sessionize](https://sessionize.com/engineering87/):
 
-- ![Sharp4Dev](https://img.shields.io/badge/Sharp4Dev-upcoming-E8590C?style=flat-square) 16 October 2026 - [Sharp4Dev 2026, Seraphicum, Rome](https://sharp4dev.sharpcoding.it/)
-- ![KEY2](https://img.shields.io/badge/KEY2%20Meetup-upcoming-E8590C?style=flat-square) 29 October 2026 - [La resilienza non basta: architetture self-healing in .NET, KEY2, Rome](https://www.linkedin.com/company/key-2/)
-
-Recent sessions, with the full history on
-[Sessionize](https://sessionize.com/engineering87/):
-
+- ![KEY2](https://img.shields.io/badge/KEY2%20Meetup-E8590C?style=flat-square) 2026 - [La resilienza non basta: architetture self-healing in .NET, KEY2, Rome](https://www.linkedin.com/company/key-2/)
+- ![Sharp4Dev](https://img.shields.io/badge/Sharp4Dev-E8590C?style=flat-square) 2026 - [Sharp4Dev 2026, Seraphicum, Rome](https://sharp4dev.sharpcoding.it/)
 - ![SharpCoding](https://img.shields.io/badge/SharpCoding-2D8CFF?style=flat-square) 2025 - [SharpCoding Conf 2025, Microsoft](https://github.com/sharpcoding-conference/SharpCodingWorkshop-2025/blob/main/Francesco%20Del%20Re/README.md)
 - ![Codemotion](https://img.shields.io/badge/Codemotion-F5B700?style=flat-square) 2024 - [Codemotion Workshop Fest 2024](https://github.com/engineering87/CodemotionWorkshopFest-2024/blob/main/README.md)
 - ![SharpCoding](https://img.shields.io/badge/SharpCoding-2D8CFF?style=flat-square) 2024 - [SharpCoding Conf 2024, Microsoft](https://github.com/engineering87/TechnicalSessions/blob/main/Conference/SharpCoding2024.md)
